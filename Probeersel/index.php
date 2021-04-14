@@ -141,6 +141,9 @@
           applicatie- en mediaontwikkelaar.
           Het coderen van websites vind ik momenteel het leukst.
           Ook het designen vind ik leuk, vooral met HTML en CSS.
+          Andere hobbys van mij zijn fotograferen van landschap,
+          op vakantie gaan met de caravan, maar met het vliegtuig
+          vind ik ook heel leuk.
           </p>
 
       </div>
