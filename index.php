@@ -58,7 +58,7 @@
               Ik maakte in deze periode voor het eerst kennis met PHP en Github</p>
           </div>
           <div class="project-img">
-            <img src="./img/img-1.png" alt="img">
+            <img src="./img/img-1.png" alt="img1">
           </div>
         </div>
         <div class="project-item">
@@ -70,7 +70,7 @@
               zou gaan worden. En na het coderen te zien dat het werkt is erg leuk.</p>
           </div>
           <div class="project-img">
-            <img src="./img/img-4.png" alt="img">
+            <img src="./img/img-4.png" alt="img2">
           </div>
         </div>
         <div class="project-item">
@@ -82,7 +82,7 @@
               een soort van pong. </p>
           </div>
           <div class="project-img">
-            <img src="./img/img-3.png" alt="img">
+            <img src="./img/img-3.png" alt="img3">
           </div>
         </div>
         <div class="project-item">
@@ -93,7 +93,7 @@
             zodat de koks in de kekuken gelijk de bestellingen kunnen aflezen, en er word gelijk een bon naar de kassa getuurd.</p>
           </div>
           <div class="project-img">
-            <img src="./img/img-1.png" alt="img">
+            <img src="./img/img-1.png" alt="img4">
           </div>
         </div>
         <div class="project-item">
@@ -104,7 +104,7 @@
             proberen met activities en invoeropties</p>
           </div>
           <div class="project-img">
-            <img src="./img/img-1.png" alt="img">
+            <img src="./img/img-1.png" alt="img5">
           </div>
         </div>
       </div>
