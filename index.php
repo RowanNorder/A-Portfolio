@@ -70,7 +70,7 @@
               zou gaan worden. En na het coderen te zien dat het werkt is erg leuk.</p>
           </div>
           <div class="project-img">
-            <img src="./img/img-1.png" alt="img">
+            <img src="./img/img-4.png" alt="img">
           </div>
         </div>
         <div class="project-item">
@@ -82,7 +82,7 @@
               een soort van pong. </p>
           </div>
           <div class="project-img">
-            <img src="./img/img-1.png" alt="img">
+            <img src="./img/img-3.png" alt="img">
           </div>
         </div>
         <div class="project-item">
