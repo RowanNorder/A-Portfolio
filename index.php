@@ -53,7 +53,7 @@
           <div class="project-info">
             <h1>Project 1</h1>
             <h2>Teamwebsite bouwen</h2>
-            <p>Het eerste project. hiervoor heb ik nog niet vaker iets in zon groepsverband gedaan dus dat was best nieuw.
+            <p>Het eerste project. hiervoor heb ik nog niet vaker iets in zo'n groepsverband gedaan dus dat was best nieuw.
               Voor dit project moesten we een teamwebsite maken. dit deden we met HTML, CSS en PhP. 
               Ik maakte in deze periode voor het eerst kennis met PHP en Github</p>
           </div>
@@ -89,7 +89,8 @@
           <div class="project-info">
             <h1>Project 4</h1>
             <h2>Kassa,Keuken narrowcasting</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum enim libero dolores. Totam quidem optio distinctio, inventore consectetur quia commodi praesentium voluptas minima, eveniet id quibusdam adipisci accusamus, fugit fugiat.</p>
+            <p>Voor dit project was het de bedoeling dat we een systeem maakt waarin je bestellingen kunt opnemen, dat die dan gelijk worden doorgestuurd naar de keuken. 
+            zodat de koks in de kekuken gelijk de bestellingen kunnen aflezen, en er word gelijk een bon naar de kassa getuurd.</p>
           </div>
           <div class="project-img">
             <img src="./img/img-1.png" alt="img">
@@ -99,21 +100,8 @@
           <div class="project-info">
             <h1>Project 5</h1>
             <h2>Just in Time en Mobile App</h2>
-            <p>Het derde project. Dit was een groepsproject. We werkten in duos om samen tot 1 hub met 3 games te komen.
-              De samenwerking tussen mij en mijn duo-partner verliep goed. En wij hebben de game MEAP gemaakt, dat is 
-              een soort van pong. </p>
-          </div>
-          <div class="project-img">
-            <img src="./img/img-1.png" alt="img">
-          </div>
-        </div>
-        <div class="project-item">
-          <div class="project-info">
-            <h1>Project 6</h1>
-            <h2>Nog Niet Begonnen</h2>
-            <p>Het derde project. Dit was een groepsproject. We werkten in duos om samen tot 1 hub met 3 games te komen.
-              De samenwerking tussen mij en mijn duo-partner verliep goed. En wij hebben de game MEAP gemaakt, dat is 
-              een soort van pong. </p>
+            <p>Het vijfde project, we moesten als groep een nieuw systeem maken waarin leerlingen zichzelf in en uit kunen klokken, en voor de mobile app moesten we 
+            proberen met activities en invoeropties</p>
           </div>
           <div class="project-img">
             <img src="./img/img-1.png" alt="img">
