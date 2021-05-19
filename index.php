@@ -28,7 +28,6 @@
   </section>
   <!-- End Header -->
 
-
   <!-- Hero Section  -->
   <section id="hero">
     <div class="hero container">
@@ -104,7 +103,7 @@
             proberen met activities en invoeropties</p>
           </div>
           <div class="project-img">
-            <img src="./img/img-1.png" alt="img5">
+            <img src="./img/img-5.png" alt="img5">
           </div>
         </div>
       </div>
@@ -145,8 +144,8 @@
           <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png"/></div>
           <div class="contact-info">
             <h1>Telefoon</h1>
-            <h2>06-43231629</h2>
             <h2>06-24469504</h2>
+            <h2>06-43231629</h2>
           </div>
         </div>
         <div class="contact-item">
