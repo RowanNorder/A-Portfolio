@@ -106,6 +106,17 @@
             <img src="./img/img-5.png" alt="img5">
           </div>
         </div>
+        <div class="project-item">
+          <div class="project-info">
+            <h1>Project 6</h1>
+            <h2>Zeeslag</h2>
+            <p>Voor dit project moesten we als groep samenwerken om het spel zeeslag na te bouwen. De samenwerking verliep niet heel goed, dus heb ik uiteindelijk maar de eindpagina
+            gemaakt en hier ben ik best trots op. hij werkt hoe hij moet werken maar er was nog geen database dus kon ik geen namen ophalen want daar hadden we de tijd niet meer voor.</p>
+          </div>
+          <div class="project-img">
+            <img src="./img/img-1.png" alt="img1">
+          </div>
+        </div>
       </div>
     </div>
   </section>
